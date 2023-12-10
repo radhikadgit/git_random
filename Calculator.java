@@ -1,6 +1,8 @@
 package javaprograms;
 
 public class Calculator {
+
+//made changes in the branch "fix_calc"
 	int i =10;
 	public static int add(int a,int b )
 	{
