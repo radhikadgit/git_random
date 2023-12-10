@@ -3,6 +3,7 @@ package javaprograms;
 public class Calculator {
 
 //made changes in the branch "fix_calc"
+//New change from other colleague - "new_fix"	
 	int i =10;
 	public static int add(int a,int b )
 	{
